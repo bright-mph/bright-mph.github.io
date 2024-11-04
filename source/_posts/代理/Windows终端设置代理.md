@@ -5,7 +5,7 @@ categories: 代理
 ---
 找到代理软件的端口，这里以v2rayN为例：
 
-![img.png](./Windows终端设置代理/img.png)
+![img.png](../../imgs/Windows终端设置代理/img.png)
 # 配置CMD
 ## 临时生效
 ```shell
@@ -20,4 +20,4 @@ set https_proxy=
 ```
 ## 长期生效
 编辑环境变量，添加：
-![img_1.png](./Windows终端设置代理/img_1.png)
+![img_1.png](../../imgs/Windows终端设置代理/img_1.png)
